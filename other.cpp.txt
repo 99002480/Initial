@@ -1,0 +1,6 @@
+#include "other.h"
+#include <iostream>
+void MyFunc() {
+    std::cout << "Hello and welcome ..This is from another .cpp file!";
+    std::cin.get();
+}
